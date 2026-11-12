@@ -1,0 +1,100 @@
+# IFT3913 - Qualité du logiciel 
+
+Ce cours est offert à l'automne 2026. Il est organisé suivant le calendrier ci-dessous.
+
+Avec ce cours, les étudiant(e)s auront acquis les compétences suivantes: 
+* évaluation automatique de la qualité logicielle
+* concepts fondamentaux du test logicel: données, scénarios, oracles
+* apprentissage par diverses sources de connaissances
+* curiosité et humour pour le logiciel
+
+Les étudiant(e)s sont évalué(e)s sur la base de 4 [tâches](#evaluation-ift3913-a26).
+
+Prérequis: programmation Java, [git et github](https://github.com/umontreal-diro/IFT3913/issues/13).
+
+Resource utile: [travailler avec des forks Git (en anglais)](https://gist.github.com/Chaser324/ce0505fbed06b947d962).
+
+Le cours a lieu en personne les mardis de 12.30 à 15.30 en salle Z-317 au [Pavillon Claire-McNicoll](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1%5Bbuilding%5D=384&tx_udemplancampus_pi1%5Baction%5D=show&tx_udemplancampus_pi1%5Bcontroller%5D=Building&cHash=21d285a99ff9b02e3952d15b1a39ab0f). Les séances de travaux pratique ont lieu les jeudis de 8.30 à 10.30, en salle Z-317 au [Pavillon Claire-McNicoll](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1%5Bbuilding%5D=384&tx_udemplancampus_pi1%5Baction%5D=show&tx_udemplancampus_pi1%5Bcontroller%5D=Building&cHash=21d285a99ff9b02e3952d15b1a39ab0f).
+
+Vous pouvez contacter les assistantes de cours, Meriem, Yogya et Madjda, à cette adresse: dift3913@iro.umontreal.ca
+
+## Semaine #1 mardi 1er septembre: Introduction
+- présentation du cours et des modalités
+- matériel préparatoire: [Operational Excellence](https://dl.acm.org/doi/pdf/10.1145/3155112.3171529)
+ 
+## Semaine #2 mardi 8 septembre: Études de cas
+- Cas d'études: qualité pour le logiciel open source
+- matériel préparatoire: [How Developers Engineer Test Cases: An Observational Study](https://azaidman.github.io/publications/anicheTSE2022.pdf)
+- Démonstration: [Github Actions](https://udemontreal-my.sharepoint.com/:b:/g/personal/oussama_ben_sghaier_umontreal_ca/EQT2_ZKAMlxIsReH3OEdbLIBQxCRF5nC6VomdmU3_kwZIw?e=2Z1qzU)
+ 
+## Semaine #3 mardi 15 septembre: [Test unitaire](https://github.com/umontreal-diro/IFT3913/issues/2)
+- Introduction + [présentations d'étudiants](presentations/Semaine03/readme.md)
+- matériel préparatoire: [Unit Tests for SQL](https://ieeexplore.ieee.org/iel7/52/10372482/10372508.pdf)
+ 
+## Semaine #4 mardi 22 septembre: [Couverture de code](https://github.com/umontreal-diro/IFT3913/issues/3)
+- Introduction + [présentations d'étudiants](presentations/Semaine04/readme.md)
+- matériel préparatoire: [Code Coverage Best Practices](https://testing.googleblog.com/2020/08/code-coverage-best-practices.html)
+ 
+## Semaine #5 mardi 29 septembre: [Test unitaire avancé](https://github.com/umontreal-diro/IFT3913/issues/4) 
+- Introduction + [présentations d'étudiants](presentations/Semaine05/readme.md)
+- matériel préparatoire: [Handling Flaky Unit Tests in Java](https://www.uber.com/en-CA/blog/handling-flaky-tests-java/)
+ 
+## Semaine #6 mardi 6 octobre: [Test et IA](https://github.com/umontreal-diro/IFT3913/issues/975)
+- Quizz
+- Introduction + [présentations d'étudiants](presentations/Semaine06/readme.md)
+- matériel préparatoire: [Testing beyond coverage](https://increment.com/reliability/testing-beyond-coverage/)
+
+## Semaine #7 mardi 13 octobre: [Test et sécurité](https://github.com/umontreal-diro/IFT3913/issues/976)
+- Introduction + [présentations d'étudiants](presentations/Semaine07/readme.md)
+- matériel préparatoire: [What is Clean Code?](https://www.sonarsource.com/blog/what-is-clean-code/)
+
+## Semaine #8 mardi 27 octobre: [Gestion des dépendances](https://github.com/umontreal-diro/IFT3913/issues/7)
+- Introduction + [présentations d'étudiants](presentations/Semaine08/readme.md)
+- matériel préparatoire: [Surviving software dependencies](https://dl.acm.org/doi/pdf/10.1145/3347446)
+ 
+## Semaine #9 mardi 3 novembre: [Tester la diversité d'environnements](https://github.com/umontreal-diro/IFT3913/issues/8)
+- Quizz
+- Introduction + [présentations d'étudiants](presentations/Semaine09/readme.md)
+- matériel préparatoire: [Cross Browser Testing Overview](https://www.datadoghq.com/knowledge-center/cross-browser-testing/)
+
+## Semaine #10 mardi 10 novembre: ~~à Ubisoft [Tester dans un domaine spécifique](https://github.com/umontreal-diro/IFT3913/issues/10)~~
+- Introduction + [présentations d'étudiants](presentations/Semaine10/readme.md)
+- matériel préparatoire: [Mobile Game Testing: Types, Tools, and More](https://game-ace.com/blog/mobile-game-testing/)
+ 
+## Semaine #11 mardi 17 novembre: [Tester dans un domaine spécifique](https://github.com/umontreal-diro/IFT3913/issues/10)
+- Introduction + [présentations d'étudiants](presentations/Semaine10/readme.md)
+- matériel préparatoire: [Mobile Game Testing: Types, Tools, and More](https://game-ace.com/blog/mobile-game-testing/)
+ 
+## Semaine #12 mardi 24 novembre: [Test et humour](https://github.com/umontreal-diro/IFT3913/issues/9)
+- Introduction + [présentations d'étudiants](presentations/Semaine11/readme.md)
+- matériel préparatoire: [With Great Humor Comes Great Developer Engagement](https://arxiv.org/pdf/2312.01680)
+ 
+## Semaine #13 mardi 1er décembre: [Test en production](https://github.com/umontreal-diro/IFT3913/issues/11)
+- Quizz
+- Introduction + [présentations d'étudiants](presentations/Semaine12/readme.md)
+- matériel préparatoire: [I test in prod](https://increment.com/testing/i-test-in-production/)
+
+
+# Evaluation IFT3913 A26
+
+L'évaluation se fait sur la base des 4 tâches décrites ci-dessous. Les tâches #1 et #4 sont individuelles, les tâches #2 et #3 se font en binôme. Le poids respectif de chaque tâche est indiqué ci-dessous. La correspondance entre les notes de chaque tâche et la note litérale est dynamique.
+
+- tâche #1: présentation individuelle (30%). Les étudiant(e)s choisissent un thème parmi tous ceux abordés chaque semaine et préparent une présentation technique de 7 minutes sur ce thème. Cf.les [instructions détaillées](./presentations/readme.md) et les [critères d'évaluation pour la tâche 1](#tâche-1).
+  - date limite: jour du cours
+  - politique de retard: en cas d'absence au cours, il n'y a qu'une seule opportunité de reporter la présentation à un autre jour, à déterminer avec l'équipe enseignante
+- tâche #2: augmentation d'une suite de tests automatique (30%). Les étudiants travaillent en binôme. Chaque binôme augmente la suite de tests de [cas d'étude](#cas-détude). Cf. les [instructions détaillées et les critères d'évaluation](./tache2/readme.md). 
+  - date limite: mardi 13 octobre, 17h EDT 
+  - politique de retard: 10% retenus sur la note pour un rendu dans les 24 heures qui suivent la date limite; 50% retenus pour un rendu entre 24 et 48 heures en retard; pas de note pour un rendu plus de 48 heures en retard
+- tâche #3: automatisation des tests de sécurité (30%). Les étudiants travaillent en binôme, le même binôme que pour la tâche #2. Chaque binôme modifie le [cas d'étude](#cas-détude) pour le test d'intégration.  Cf. les [instructions détaillées et les critères d'évaluation](./tache3/readme.md).
+  - date limite: mardi 17 novembre, 17h EST
+  - politique de retard: 10% retenus sur la note pour un rendu dans les 24 heures qui suivent la date limite; 50% retenus pour un rendu entre 24 et 48 heures en retard; pas de note pour un rendu plus de 48 heures en retard
+- tâche #4: répondre à 3 quizz (10%). Vous recevrez 3 quizz au cours du semestre qui aborderont des points abordés dans les différentes présentations du cours. Les 3 quizz sont distribués en classe aux dates indiquées plus haut.
+  - politique de retard: les quizz sont ouverts pendant 15 minutes, en classe. Aucun quizz ne pourra être fait en-dehors de cette période.
+
+# Cas d'étude
+
+Pour les tâches 2 et 3, vous choisirez des classes à tester et à analyser parmi les modules suivants du projets [Tika](https://github.com/umontreal-diro/tika): [tika-parser-ocr-module](https://github.com/umontreal-diro/tika/tree/main/tika-parsers/tika-parsers-standard/tika-parsers-standard-modules/tika-parser-ocr-module), [tika-parser-pdf-module](https://github.com/umontreal-diro/tika/tree/main/tika-parsers/tika-parsers-standard/tika-parsers-standard-modules/tika-parser-pdf-module), [tika-core](https://github.com/umontreal-diro/tika/tree/main/tika-core), [tika-serialization](https://github.com/umontreal-diro/tika/tree/main/tika-serialization) et [tika-parser-microsoft-module](https://github.com/umontreal-diro/tika/tree/main/tika-parsers/tika-parsers-standard/tika-parsers-standard-modules/tika-parser-microsoft-module )
+
+# Usage de l'intelligence artificielle
+
+Vous êtes autorisés à utiliser l'IA. Si vous l'utilisez, vous devez le documenter en suivant les instructions de l'Université: [Intelligence artificielle générative: Citer, signaler, déclarer et documenter](https://boite-outils.bib.umontreal.ca/c.php?g=743753&p=5377614).
